@@ -1,5 +1,4 @@
 import 'package:app_pokedex/app/common/constants/app_constants_manager.dart';
-import 'package:app_pokedex/app/common/remote_datasource/interceptor/remote_data_interceptor.dart';
 import 'package:dio/dio.dart';
 import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 
@@ -9,7 +8,7 @@ class RemoteDataProvider implements IRemoteDataProvider {
   RemoteDataProvider({required IAppConstantsManager appConstants}) {
     _dio = Dio(
       BaseOptions(baseUrl: appConstants.apiBaseUrl),
-    )..interceptors.add(RemoteDataInterceptor());
+    );
   }
 
   late final Dio _dio;
