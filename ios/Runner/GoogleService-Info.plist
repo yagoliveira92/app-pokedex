@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBNoudDa7DPRTbPGmEKHBydIEGdLHaUsvM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>167871417806</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.dev.yago.appPokedex</string>
+	<key>PROJECT_ID</key>
+	<string>app-pokedex-7f186</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-pokedex-7f186.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:167871417806:ios:d739302c769c6d2169af9f</string>
+</dict>
+</plist>

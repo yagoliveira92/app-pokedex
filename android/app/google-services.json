@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167871417806",
+    "project_id": "app-pokedex-7f186",
+    "storage_bucket": "app-pokedex-7f186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167871417806:android:14a53f4f463f152569af9f",
+        "android_client_info": {
+          "package_name": "br.dev.yago.app_pokedex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyqODSwOx9MSXtbOTyrhGukbbyIYoBJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
